@@ -1,5 +1,14 @@
-p {
+.p {
 
 font: 4rem 'Verdana'
+
+}
+
+.body {
+
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-palette: green;
+
 
 }
